@@ -16,5 +16,6 @@
 <footer>푸터 추가</footer>
 <script>
 	console.log('hello vs-code');
+	alert('hello, git copy');
 </script>
 </html>
