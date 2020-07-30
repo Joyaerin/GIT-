@@ -12,4 +12,5 @@
 	COMMIT 3
 	COMMIT 4
 </body>
+<footer>푸터 추가</footer>
 </html>
